@@ -1,4 +1,6 @@
-
+<div align="center">
+<img alt="FacePlugin" src="https://raw.githubusercontent.com/Faceplugin-ltd/faceplugin-assets/main/brand/logo.png" width="400"/>
+</div>
 
 #### 🌐 Company Site - [Here](https://faceplugin.com)
 
