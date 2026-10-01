@@ -375,21 +375,12 @@ print(sdk.get_license_status())  # authenticity flag + label
 
 HTTP endpoints: `/api/health`, `/api/machinecode`, `/api/licenseStatus`, `/api/backend`, `/api/activate`, `/api/documentLiveness`.
 
-## Company Overview
-
-**FacePlugin** builds **on-premises biometric AI SDKs** for **face recognition**, **face liveness detection** (presentation-attack detection), **deepfake detection**, **ID document recognition** (OCR / MRZ / barcode), **ID document liveness**, and full **eKYC / identity verification** workflows.
-
-Deploy on your own servers, private cloud, or fully on-device. **Biometric data never leaves your infrastructure.** Face matching is **NIST FRVT**-evaluated; liveness targets **iBeta Level 2** class PAD. License once for **unlimited on-prem inference** — **no per-call fees**.
-
-- Website: [faceplugin.com](https://faceplugin.com)
-- Docs: [doc.faceplugin.com](https://doc.faceplugin.com)
-- Hugging Face demo: [Liveness-Detection-SDK](https://huggingface.co/spaces/FacePlugin-Ltd/Liveness-Detection-SDK)
-- Docker Hub: [faceplugin/document-liveness](https://hub.docker.com/r/faceplugin/document-liveness)
-
-
-
 ## Contact
 
-Request a license, machine-code activation (`FPMC1.…` → `FP1.…`), or integration help:
+<div align="left">
+<a target="_blank" href="mailto:info@faceplugin.com"><img src="https://img.shields.io/badge/email-info@faceplugin.com-blue.svg?logo=gmail" alt="faceplugin.com"></a>&emsp;
+<a target="_blank" href="https://t.me/FacePluginSupport"><img src="https://img.shields.io/badge/telegram-@FacePluginSupport-blue.svg?logo=telegram" alt="Telegram @FacePluginSupport"></a>&emsp;
+<a target="_blank" href="https://wa.me/+14692784822"><img src="https://img.shields.io/badge/whatsapp-faceplugin-blue.svg?logo=whatsapp" alt="faceplugin.com"></a>
+</div>
 
    
